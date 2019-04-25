@@ -18,7 +18,7 @@ Keyboard: <kbd>F</kbd> toggles the visiblity of the floor grid, while <kbd>B</kb
 ![VRCS Controls](http://viz.gdb.tools/images/vrcs_controls.jpg)
 
 ### Usage (Without a VR Headset)
-If you do not have a VR headset, you will be able to use VRCS in a limitad fashion using your mouse and keyboard. The movement in the plane is controlled by <kbd>A</kbd><kbd>W</kbd><kbd>S</kbd><kbd>D</kbd> while the rotation of the simulated headset is controlled using the mouse.
+If you do not have a VR headset, you will be able to use VRCS in a limited fashion using your mouse and keyboard. The movement in the plane is controlled by <kbd>A</kbd><kbd>W</kbd><kbd>S</kbd><kbd>D</kbd> while the rotation of the simulated headset is controlled using the mouse.
 
 ## Building VRCS
 In order to build VRCS, the latest release of [Unity3d](https://unity3d.com/) is required.
